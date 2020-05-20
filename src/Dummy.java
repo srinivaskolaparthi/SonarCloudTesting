@@ -7,6 +7,7 @@ public class Dummy {
 	{
 	  int g;
 	  int w;
+	  System.out.println("dsfndsavfjdshj");
 	}
 	
 }
